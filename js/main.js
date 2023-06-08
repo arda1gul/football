@@ -1,4 +1,4 @@
-fetch('/data/spelers.json')
+fetch('data/spelers.json')
     .then(myData => myData.json())
     .then(spelers => showInConsole(spelers));
 
