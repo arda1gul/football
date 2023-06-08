@@ -1,0 +1,240 @@
+[
+    {
+        "naam": "Paolo Maldini",
+        "leeftijd": 53,
+        "positie": "Verdediger",
+        "laatsteClub": "AC Milan",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Xavi",
+        "leeftijd": 42,
+        "positie": "Middenvelder",
+        "laatsteClub": "Al-Sadd",
+        "nationaliteit": "Spanje"
+    },
+    {
+        "naam": "Steven Gerrard",
+        "leeftijd": 41,
+        "positie": "Middenvelder",
+        "laatsteClub": "LA Galaxy",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Andrea Pirlo",
+        "leeftijd": 43,
+        "positie": "Middenvelder",
+        "laatsteClub": "New York City FC",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Frank Lampard",
+        "leeftijd": 43,
+        "positie": "Middenvelder",
+        "laatsteClub": "New York City FC",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Carles Puyol",
+        "leeftijd": 43,
+        "positie": "Verdediger",
+        "laatsteClub": "FC Barcelona",
+        "nationaliteit": "Spanje"
+    },
+    {
+        "naam": "Didier Drogba",
+        "leeftijd": 44,
+        "positie": "Aanvaller",
+        "laatsteClub": "Phoenix Rising",
+        "nationaliteit": "Ivoorkust"
+    },
+    {
+        "naam": "Javier Zanetti",
+        "leeftijd": 48,
+        "positie": "Verdediger",
+        "laatsteClub": "Inter Milan",
+        "nationaliteit": "Argentinië"
+    },
+    {
+        "naam": "Alessandro Nesta",
+        "leeftijd": 46,
+        "positie": "Verdediger",
+        "laatsteClub": "Montreal Impact",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Ryan Giggs",
+        "leeftijd": 48,
+        "positie": "Middenvelder",
+        "laatsteClub": "Manchester United",
+        "nationaliteit": "Wales"
+    },
+    {
+        "naam": "Ronaldo Nazario",
+        "leeftijd": 46,
+        "positie": "Aanvaller",
+        "laatsteClub": "Corinthians",
+        "nationaliteit": "Brazilië"
+    },
+    {
+        "naam": "Paul Scholes",
+        "leeftijd": 47,
+        "positie": "Middenvelder",
+        "laatsteClub": "Manchester United",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Cafu",
+        "leeftijd": 51,
+        "positie": "Verdediger",
+        "laatsteClub": "AC Milan",
+        "nationaliteit": "Brazilië"
+    },
+    {
+        "naam": "Samuel Eto'o",
+        "leeftijd": 41,
+        "positie": "Aanvaller",
+        "laatsteClub": "Qatar SC",
+        "nationaliteit": "Kameroen"
+    },
+    {
+        "naam": "Gary Neville",
+        "leeftijd": 47,
+        "positie": "Verdediger",
+        "laatsteClub": "Manchester United",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Michael Ballack",
+        "leeftijd": 46,
+        "positie": "Middenvelder",
+        "laatsteClub": "Bayer Leverkusen",
+        "nationaliteit": "Duitsland"
+    },
+    {
+        "naam": "Ronaldinho",
+        "leeftijd": 42,
+        "positie": "Aanvaller",
+        "laatsteClub": "Fluminense",
+        "nationaliteit": "Brazilië"
+    },
+    {
+        "naam": "Rio Ferdinand",
+        "leeftijd": 43,
+        "positie": "Verdediger",
+        "laatsteClub": "Queens Park Rangers",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Lilian Thuram",
+        "leeftijd": 50,
+        "positie": "Verdediger",
+        "laatsteClub": "FC Barcelona",
+        "nationaliteit": "Frankrijk"
+    },
+    {
+        "naam": "Clarence Seedorf",
+        "leeftijd": 46,
+        "positie": "Middenvelder",
+        "laatsteClub": "Botafogo",
+        "nationaliteit": "Nederland"
+    },
+    {
+        "naam": "Alessandro Del Piero",
+        "leeftijd": 47,
+        "positie": "Aanvaller",
+        "laatsteClub": "Sydney FC",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Zinedine Zidane",
+        "leeftijd": 50,
+        "positie": "Middenvelder",
+        "laatsteClub": "Real Madrid",
+        "nationaliteit": "Frankrijk"
+    },
+    {
+        "naam": "Fabio Cannavaro",
+        "leeftijd": 48,
+        "positie": "Verdediger",
+        "laatsteClub": "Al-Ahli",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Raul",
+        "leeftijd": 45,
+        "positie": "Aanvaller",
+        "laatsteClub": "New York Cosmos",
+        "nationaliteit": "Spanje"
+    },
+    {
+        "naam": "David Beckham",
+        "leeftijd": 47,
+        "positie": "Middenvelder",
+        "laatsteClub": "Paris Saint-Germain",
+        "nationaliteit": "Engeland"
+    },
+    {
+        "naam": "Oliver Kahn",
+        "leeftijd": 52,
+        "positie": "Doelman",
+        "laatsteClub": "Bayern München",
+        "nationaliteit": "Duitsland"
+    },
+    {
+        "naam": "Thierry Henry",
+        "leeftijd": 45,
+        "positie": "Aanvaller",
+        "laatsteClub": "New York Red Bulls",
+        "nationaliteit": "Frankrijk"
+    },
+    {
+        "naam": "Andriy Shevchenko",
+        "leeftijd": 45,
+        "positie": "Aanvaller",
+        "laatsteClub": "Dynamo Kyiv",
+        "nationaliteit": "Oekraïne"
+    },
+    {
+        "naam": "Roberto Baggio",
+        "leeftijd": 55,
+        "positie": "Aanvaller",
+        "laatsteClub": "Inter Milan",
+        "nationaliteit": "Italië"
+    },
+    {
+        "naam": "Gheorghe Hagi",
+        "leeftijd": 57,
+        "positie": "Middenvelder",
+        "laatsteClub": "Galatasaray",
+        "nationaliteit": "Roemenië"
+    },
+    {
+        "naam": "Gareth Bale",
+        "leeftijd": 33,
+        "positie": "Aanvaller",
+        "laatsteClub": "Los Angeles FC",
+        "nationaliteit": "Wales"
+    },
+    {
+        "naam": "Gerard Piqué",
+        "leeftijd": 36,
+        "positie": "Verdediger",
+        "laatsteClub": "FC Barcelona",
+        "nationaliteit": "Spanje"
+    },
+    {
+        "naam": "Sergio Agüero",
+        "leeftijd": 34,
+        "positie": "Aanvaller",
+        "laatsteClub": "FC Barcelona",
+        "nationaliteit": "Argentinië"
+    },
+    {
+        "naam": "Zlatan Ibrahimovic",
+        "leeftijd": 41,
+        "positie": "Aanvaller",
+        "laatsteClub": "AC Milan",
+        "nationaliteit": "Zweden"
+    }
+]
